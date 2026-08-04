@@ -106,6 +106,20 @@
       }
     },
     {
+      "payloadId": "a34x-A346EXXSDEZB6",
+      "displayName": "Galaxy A34 5G | Kernel 6.6.82",
+      "models": ["SM-A346E"],
+      "kernelVersions": ["6.6.82"],
+      "exploit": {
+        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/artifacts/a34x-A346EXXSDEZB6/cve-2026-43499-app.so",
+        "size": 104128
+      },
+      "kernelsu": {
+        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-A346EXXSDEZB6-kdp",
+        "size": 4764952
+      }
+    },
+    {
       "payloadId": "a36xq-A366WVLS3AYG1",
       "displayName": "Galaxy A36 5G | Kernel 6.6.46",
       "models": ["SM-A366W"],
