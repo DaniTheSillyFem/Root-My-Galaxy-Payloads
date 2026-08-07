@@ -55,7 +55,7 @@
       "kernelVersions": ["6.6.98"],
       "exploit": {
         "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/artifacts/q7q-F966USQU9BZDN/cve-2026-43499-app.so",
-        "size": 104128
+        "size": 111216
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-s25u-kdp",
@@ -89,6 +89,21 @@
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e2s-S926BXXUEDZDR-kdp",
         "size": 4780056
+      }
+    },
+    {
+      "payloadId": "e1s-S921BXXSFDZE1",
+      "displayName": "Galaxy S24 | Kernel 6.1.157",
+      "models": ["SM-S921B"],
+      "kernelVersions": ["6.1.157"],
+      "requiresFreshP0Session": true,
+      "exploit": {
+        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/artifacts/e1s-S921BXXSFDZE1/cve-2026-43499-app.so",
+        "size": 104128
+      },
+      "kernelsu": {
+        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e1s-S921BXXSFDZE1-kdp",
+        "size": 4920520
       }
     },
     {
@@ -140,11 +155,26 @@
       "kernelVersions": ["5.15.189"],
       "exploit": {
         "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/artifacts/dm3q-S9180ZHS8FZF5/cve-2026-43499-app.so",
-        "size": 106184
+        "size": 137728
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-dm3q-S9180ZHS8FZF5-kdp",
         "size": 4556352
+      }
+    },
+    {
+      "payloadId": "e1s-S921NKSSFDZF3",
+      "displayName": "Galaxy S24 | Kernel 6.1.157",
+      "models": ["SM-S921N"],
+      "kernelVersions": ["6.1.157"],
+      "requiresFreshP0Session": true,
+      "exploit": {
+        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/artifacts/e1s-S921NKSSFDZF3/cve-2026-43499-app.so",
+        "size": 104128
+      },
+      "kernelsu": {
+        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e1s-S921NKSSFDZF3-kdp",
+        "size": 4758872
       }
     }
   ]
