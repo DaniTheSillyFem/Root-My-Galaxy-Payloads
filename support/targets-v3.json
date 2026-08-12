@@ -135,6 +135,12 @@
       }
     },
     {
+      "payloadId": "a34x-A346EXXUEFZE6",
+      "displayName": "Galaxy A34 5G | Kernel 6.6.92",
+      "models": ["SM-A346E"],
+      "kernelVersions": ["6.6.92"],
+      "exploit": {
+    {
       "payloadId": "a36xq-A366WVLS3AYG1",
       "displayName": "Galaxy A36 5G | Kernel 6.6.46",
       "models": ["SM-A366W"],
