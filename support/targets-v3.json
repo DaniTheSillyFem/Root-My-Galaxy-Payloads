@@ -123,7 +123,7 @@
     {
       "payloadId": "a34x-A346EXXSDEZB6",
       "displayName": "Galaxy A34 5G | Kernel 6.6.82",
-      "models": ["SM-ghcr.io/ylarod/ddk-minA346E"],
+      "models": ["SM-A346E"],
       "kernelVersions": ["6.6.82"],
       "exploit": {
         "url": "https://raw.githubusercontent.com/DaniTheSillyFem/Root-My-Galaxy-Payloads/main/artifacts/a34x-A346EXXSDEZB6/cve-2026-43499-app.so",
