@@ -156,7 +156,7 @@
       "kernelVersions": ["6.6.92"],
       "exploit": {
         "url": "https://raw.githubusercontent.com/DaniTheSillyFem/Root-My-Galaxy-Payloads/main/artifacts/a34x-A346EXXUEFZE6/cve-2026-43499-app.so",
-        "size": 125632
+        "size": 125872
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/DaniTheSillyFem/Root-My-Galaxy-Payloads/main/kernelsu/ksud-A346EXXSDEZB6-kdp",
